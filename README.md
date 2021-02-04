@@ -11,6 +11,6 @@ This project aim to deal with modules related to manage document printing and se
  - Interface Odoo with Pingen (https://www.pingen.com/en)
  - Add an printing queue
  - Allow to choose printer
- - ...
+ - ...test ...
 
 
